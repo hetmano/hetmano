@@ -21,7 +21,7 @@
 
 ###
 
-<h5 align="center">My name is Jakub and I'm a passionate backend developer from Poland</h5>
+<h3 align="center">My name is Jakub and I'm a passionate backend developer from Poland</h3>
 
 ###
 
